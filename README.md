@@ -23,6 +23,6 @@ you could see like this
 
 
 this is realtime ranking 
-https://docs.google.com/spreadsheets/d/12r55g5evWiXgyhUOV31EPzNRoBGn-veUzxZxqJPgnAc/edit?gid=0#gid=0
+[https://docs.google.com/spreadsheets/d/12r55g5evWiXgyhUOV31EPzNRoBGn-veUzxZxqJPgnAc/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1kGwxX4fzU2PwRHHFojF02wgV_1N3kNgr8m82Cqa8S-E/edit?gid=0#gid=0) 
 
 ![image](https://github.com/DinhCongTac221/Initia-missed-blocks/assets/27664184/cce8537b-2149-4b29-9742-e8a3dca90334)
